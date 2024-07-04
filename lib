@@ -6,7 +6,7 @@ local localPlayer    = players.LocalPlayer
 local mouse          = localPlayer:GetMouse()
 
 local library = {
-    cheatname = "tsuki";
+    cheatname = "Snowy.Lua";
     colorpicking = false;
     tabbuttons = {};
     tabs = {};
